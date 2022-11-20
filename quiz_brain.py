@@ -24,3 +24,4 @@ class QuizBrain:
             print("You answered incorrectly.")
         print(f"The correct answer was {correct_answer}.")
         print(f"Current Score: {self.score}/{self.question_number}")
+        print("\n")
